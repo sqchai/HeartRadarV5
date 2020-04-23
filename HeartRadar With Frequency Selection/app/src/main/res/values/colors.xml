@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="FRAME_BGCOlOR">#EEEEEE</color>
+    <color name="WAVE_BGCOLOR">#FFFFFF</color>
+    <color name="WAVE_COLOR1">#0072BD</color>
+    <color name="WAVE_COLOR2">#D95319</color>
+    <color name="LABELS_COLOR">#000000</color>
+</resources>
