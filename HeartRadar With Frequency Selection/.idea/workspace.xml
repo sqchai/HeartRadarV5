@@ -10,6 +10,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da026d07-c39c-4bb0-95ea-4ebba2b19ba7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/androidTest/java/com/example/heartradarv5/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/java/com/example/heartradarv5/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/app/src/test/java/com/example/heartradarv5/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HeartRadarV5/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,6 +97,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowBuild Variants.ShowToolbar" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
@@ -171,5 +209,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
